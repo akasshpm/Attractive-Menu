@@ -1,6 +1,6 @@
 ---
 
-# ATTRACTIVE MENU
+# Attractive Menu
 
 This repository contains a demo menu webpage built with HTML, CSS and JavaScript. This is a simple and elegant HTML, CSS and JavaScript based menu designed to provide a visually appealing navigation experience for websites.
 
